@@ -1,0 +1,7 @@
+snr: 26, ber: 18.83, cer: 0.9698, per: 1
+snr: 26.5, ber: 8.00206, cer: 0.846, per: 1
+snr: 27, ber: 2.08107, cer: 0.5222, per: 1
+snr: 27.5, ber: 0.291667, cer: 0.1286, per: 0.86
+snr: 28, ber: 0.0278807, cer: 0.0184, per: 0.25
+snr: 28.5, ber: 0.00329218, cer: 0.0028, per: 0.04
+snr: 29, ber: 0, cer: 0, per: 0

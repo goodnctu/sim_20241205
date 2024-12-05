@@ -1,0 +1,7 @@
+snr: 10, ber: 167.008, cer: 1, per: 1
+snr: 10.5, ber: 124.074, cer: 0.9998, per: 1
+snr: 11, ber: 72.2186, cer: 0.985, per: 1
+snr: 11.5, ber: 22.0679, cer: 0.7342, per: 1
+snr: 12, ber: 2.31996, cer: 0.18, per: 1
+snr: 12.5, ber: 0.0596708, cer: 0.01, per: 0.25
+snr: 13, ber: 0.00128601, cer: 0.0002, per: 0.01

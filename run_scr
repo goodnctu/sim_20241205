@@ -1,0 +1,89 @@
+mkdir mcs13_34_36
+cd mcs13_34_36
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 13 34 36 > output_13_34_36.log 2>&1 &
+cd ../
+
+# 12 32 35
+mkdir mcs12_32_35
+cd mcs12_32_35
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 12 32 35 > output_12_32_35.log 2>&1 &
+cd ../
+
+# 11 29 31
+mkdir mcs11_29_31
+cd mcs11_29_31
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 11 29 31 > output_11_29_31.log 2>&1 &
+cd ../
+
+# 10 26 29
+mkdir mcs10_26_29
+cd mcs10_26_29
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 10 26 29 > output_10_26_29.log 2>&1 &
+cd ../
+
+# 9 23 26
+mkdir mcs9_23_26
+cd mcs9_23_26
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 9 23 26 > output_9_23_26.log 2>&1 &
+cd ../
+
+# 8 20 23
+mkdir mcs8_20_23
+cd mcs8_20_23
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 8 20 23 > output_8_20_23.log 2>&1 &
+cd ../
+
+# 7 17 20
+mkdir mcs7_17_20
+cd mcs7_17_20
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 7 17 20 > output_7_17_20.log 2>&1 &
+cd ../
+
+# 6 16 19
+mkdir mcs6_16_19
+cd mcs6_16_19
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 6 16 19 > output_6_16_19.log 2>&1 &
+cd ../
+
+# 5 13 16
+mkdir mcs5_13_16
+cd mcs5_13_16
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 5 13 16 > output_5_13_16.log 2>&1 &
+cd ../
+
+# 4 10 13
+mkdir mcs4_10_13
+cd mcs4_10_13
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 4 10 13 > output_4_10_13.log 2>&1 &
+cd ../
+
+# 3 7 10
+mkdir mcs3_7_10
+cd mcs3_7_10
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 3 7 10 > output_3_7_10.log 2>&1 &
+cd ../
+
+# 2 4 7
+mkdir mcs2_4_7
+cd mcs2_4_7
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 2 4 7 > output_2_4_7.log 2>&1 &
+cd ../
+
+# 1 2 7
+mkdir mcs1_2_7
+cd mcs1_2_7
+ln -s ../phyALG ./
+./phyALG +t_mimo_top 1 2 7 > output_1_2_7.log 2>&1 &
+cd ../
